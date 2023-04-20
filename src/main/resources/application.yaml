@@ -1,3 +1,8 @@
 spring:
   application:
     name: spring-cloud-netty
+setting:
+  httpServer:
+    port: 9090
+    bossGroup: 1
+    workerGroup: 16

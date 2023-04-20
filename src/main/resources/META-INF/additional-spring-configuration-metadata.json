@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "setting.httpServer.workGroup",
+      "type": "java.lang.String",
+      "description": "Description for setting.httpServer.workGroup."
+    }
+  ]
+}
