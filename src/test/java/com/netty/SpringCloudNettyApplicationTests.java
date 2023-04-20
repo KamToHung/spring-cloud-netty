@@ -1,4 +1,4 @@
-package com.netty.springcloudnetty;
+package com.netty;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
