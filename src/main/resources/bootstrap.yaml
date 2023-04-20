@@ -6,5 +6,5 @@ spring:
   cloud:
     nacos:
       discovery:
-        server-addr: http://10.112.108.158:8848
+        server-addr: http://${nacos}:8848
         service: spring-cloud-netty
