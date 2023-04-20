@@ -1,0 +1,10 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: spring-cloud-netty
+  cloud:
+    nacos:
+      discovery:
+        server-addr: http://10.112.108.158:8848
+        service: spring-cloud-netty
